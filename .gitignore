@@ -1,0 +1,26 @@
+/node_modules
+/dist
+.parcel-cache
+
+//   const heading = React.createElement("div",{id:"heading"},"hello")
+
+//   //jsx jsx is not html in javascriprs ....it is html like syntax
+
+//   const Heading1 = () => (
+
+//       <h1 id="heading">
+//         Created using a component
+//       </h1>
+
+// )
+// const Content =()=>(
+//   <div>
+//     <Heading1/>
+//   <h1>this is const+ heading
+//   </h1>
+//   </div>
+
+// )
+
+//   const root = ReactDOM.createRoot(document.getElementById("root"));
+//   root.render(<Content/>);
